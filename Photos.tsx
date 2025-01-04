@@ -9,7 +9,7 @@ export default function Cars() {
       Price:"Rs.52.5L",
       description:
         "Ford RAM trx + 1.5L PETROL AT",
-      url: "https://pbs.twimg.com/media/FQwriBNUUAAi275.jpg:large",
+      url: "https://i.pinimg.com/736x/bf/c3/9d/bfc39d905b3863cd7992e7784e606164.jpg"
     },
 
     {
@@ -44,8 +44,6 @@ export default function Cars() {
         "Turbo v8 ",
       url: "https://f7432d8eadcf865aa9d9-9c672a3a4ecaaacdf2fee3b3e6fd2716.ssl.cf3.rackcdn.com/C3132/U739/IMG_18452-large.jpg",
     }
-    
-  
   ];
 
   return (
